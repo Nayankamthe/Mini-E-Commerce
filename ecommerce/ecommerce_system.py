@@ -1,4 +1,3 @@
-# ecommerce/ecommerce_system.py
 from ecommerce.product import Product
 from ecommerce.cart import Cart
 from ecommerce.order import Order
